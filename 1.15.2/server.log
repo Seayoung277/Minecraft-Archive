@@ -1,0 +1,130 @@
+[06:33:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:33:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:33:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:33:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:33:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:33:44] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[06:33:44] [Server thread/INFO]: Loading properties
+[06:33:44] [Server thread/INFO]: Default game type: SURVIVAL
+[06:33:44] [Server thread/INFO]: Generating keypair
+[06:33:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:33:44] [Server thread/INFO]: Using epoll channel type
+[06:33:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:33:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:33:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:33:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:33:45] [Server thread/INFO]: Preparing level "world"
+[06:33:45] [Server thread/INFO]: Reloading ResourceManager: Default
+[06:33:48] [Server thread/INFO]: Loaded 6 recipes
+[06:33:49] [Server thread/INFO]: Loaded 825 advancements
+[06:33:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:33:54] [Server thread/INFO]: Preparing spawn area: 0%
+[06:33:54] [Server thread/INFO]: Preparing spawn area: 0%
+[06:33:54] [Server thread/INFO]: Preparing spawn area: 0%
+[06:33:54] [Server thread/INFO]: Preparing spawn area: 0%
+[06:33:54] [Server thread/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:29] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[06:34:30] [Server thread/INFO]: Preparing spawn area: 31%
+[06:34:30] [Server-Worker-1/INFO]: Preparing spawn area: 36%
+[06:34:31] [Server-Worker-1/INFO]: Preparing spawn area: 46%
+[06:34:32] [Server thread/INFO]: Preparing spawn area: 66%
+[06:34:32] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[06:34:33] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[06:34:33] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[06:34:33] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[06:34:34] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[06:34:35] [Server-Worker-1/INFO]: Preparing spawn area: 85%
+[06:34:35] [Server-Worker-1/INFO]: Preparing spawn area: 86%
+[06:34:36] [Server-Worker-1/INFO]: Preparing spawn area: 88%
+[06:34:36] [Server-Worker-1/INFO]: Preparing spawn area: 89%
+[06:34:36] [Server-Worker-1/INFO]: Preparing spawn area: 91%
+[06:34:37] [Server-Worker-1/INFO]: Preparing spawn area: 92%
+[06:34:38] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[06:34:38] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[06:34:39] [Server thread/INFO]: Preparing spawn area: 97%
+[06:34:39] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[06:34:39] [Server thread/INFO]: Time elapsed: 47079 ms
+[06:34:39] [Server thread/INFO]: Done (54.245s)! For help, type "help"
+[06:35:30] [Server thread/INFO]: Stopping the server
+[06:35:30] [Server thread/INFO]: Stopping server
+[06:35:30] [Server thread/INFO]: Saving players
+[06:35:30] [Server thread/INFO]: Saving worlds
+[06:35:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[06:35:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:35:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[06:35:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:35:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[06:35:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:35:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:35:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:35:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
